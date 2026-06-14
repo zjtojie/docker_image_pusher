@@ -1,1 +1,5 @@
 postgres:16.14-alpine3.23
+docker.getcollate.io/openmetadata/db:1.12.6
+docker.elastic.co/elasticsearch/elasticsearch:9.3.0
+docker.getcollate.io/openmetadata/server:1.12.6
+docker.getcollate.io/openmetadata/ingestion:1.12.6
