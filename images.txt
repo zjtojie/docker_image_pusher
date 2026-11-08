@@ -4,3 +4,4 @@ docker.elastic.co/elasticsearch/elasticsearch:9.3.0
 docker.getcollate.io/openmetadata/server:1.12.6
 docker.getcollate.io/openmetadata/ingestion:1.12.6
 rabbitmq:3.12.9
+nacos/nacos-server:v2.2.3-slim
